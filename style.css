@@ -15,7 +15,7 @@ body {
 }
 
 #content {
-    display: flex;
+    display: block;
     flex-direction: row;
 }
 
